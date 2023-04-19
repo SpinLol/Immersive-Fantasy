@@ -1,6 +1,6 @@
 {
   "parent": "block/leaves",
   "textures": {
-    "all": "immersivefantasy:block/fantasy_leaves"
+    "all": "immersive_fantasy:block/fantasy_leaves"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "immersivefantasy:block/fantasy_log"
+    "all": "immersive_fantasy:block/fantasy_log"
   }
 }
